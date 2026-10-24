@@ -1,7 +1,7 @@
 (function () {
   var css = document.createElement("style");
   css.textContent = [
-    ".dm-pills{position:fixed;right:.65rem;bottom:5.15rem;z-index:45;display:flex;flex-direction:column;align-items:flex-end;gap:.28rem;pointer-events:none}",
+    ".dm-pills{position:fixed;right:.65rem;bottom:6.35rem;z-index:45;display:flex;flex-direction:column;align-items:flex-end;gap:.28rem;pointer-events:none}",
     "@media(min-width:768px){.dm-pills{bottom:1rem}}",
     ".dm-pill{display:flex;align-items:center;gap:.35rem;width:max-content;max-width:calc(100vw - 1.4rem);padding:.22rem .48rem;background:rgba(7,7,8,.82);color:#F2F0EC;border:1px solid rgba(242,240,236,.14);font-family:\"Source Sans 3\",sans-serif;font-size:.68rem;letter-spacing:.02em;line-height:1.15}",
     ".dm-dot{width:.42rem;height:.42rem;border-radius:50%;background:#E30613;flex:none}",
