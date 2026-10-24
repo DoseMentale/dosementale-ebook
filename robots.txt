@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ebook.dosementale.fr/sitemap.xml
